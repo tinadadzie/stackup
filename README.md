@@ -1,0 +1,2 @@
+# stackup
+A simple dashboard
